@@ -131,6 +131,6 @@ Project Link: [https://github.com/Fehr-GmbH/blackleak](https://github.com/Fehr-G
 [cvss4-shield]: https://img.shields.io/badge/CVSS_v4.0-7.0_/_High-red?style=for-the-badge
 [cvss4-url]: https://www.first.org/cvss/calculator/4.0#CVSS:4.0/AV:P/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N
 [license-shield]: https://img.shields.io/badge/license-MIT-blue?style=for-the-badge
-[license-url]: https://github.com/Fehr-GmbH/blackleak/COPYING
+[license-url]: https://github.com/Fehr-GmbH/blackleak/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://de.linkedin.com/company/fehr2
