@@ -8,13 +8,13 @@
 <br />
 <div align="center">
   <a href="https://fe.hr">
-    <img src="./logo.webp" alt="Logo" width="160" height="160">
+    <img src="./logo.webp" alt="This image was created with the assistance of DALL·E 2" width="160" height="160">
   </a>
 
   <h3 align="center">BlackLeak</h3>
 
   <p align="center">
-    Proof of Concept for CVE-2024-30212 
+    Proof of Concept for CVE-2024-30212
   </p>
 </div>
 
@@ -44,7 +44,9 @@
 <!-- ABOUT THE POC -->
 ## About The PoC
 
-This is the proof of concept for CVE-2024-30212
+This is the proof of concept for CVE-2024-30212.
+
+For more details check https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-30212
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,7 +71,11 @@ This is the proof of concept for CVE-2024-30212
    ```
    cd blackleak
    ```
-3. Make
+3. Change TARGET_VID and TARGET_PID according to your target device in main.c
+   ```
+   nano ./main.c
+   ```
+4. Make
    ```
    make
    ```
@@ -90,7 +96,7 @@ This is the proof of concept for CVE-2024-30212
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `COPYING` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,6 +119,7 @@ Project Link: [https://github.com/Fehr-GmbH/blackleak](https://github.com/Fehr-G
 * [Hiroka Ihara](https://github.com/ihr486/libusb-msdbot)
 * [Best-README-Template](https://github.com/othneildrew/Best-README-Template/tree/master)
 * [Img Shields](https://shields.io/)
+* Logo image was created with the assistance of DALL·E 2
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
